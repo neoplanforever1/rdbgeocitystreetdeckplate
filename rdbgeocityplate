@@ -38,7 +38,7 @@
       "depot": "G",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
-      "backad": "rbxassetid://8360318323"
+      "backad": "rbxassetid://"
     },
     {
       "busname": "RDB streetdeck (geo)",
@@ -48,7 +48,7 @@
       "depot": "G",
       "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
-      "backad": "rbxassetid://
+      "backad": "rbxassetid://"
     },
     {
       "busname": "RDB streetdeck (geo)",
@@ -146,7 +146,7 @@
       "carplate": "YG 2422",
       "fleetnum": "7114",
       "depot": "G",
-      "leftad": "rbxassetid://,
+      "leftad": "rbxassetid://",
       "rightad": "rbxassetid://",
       "backad": "rbxassetid://"
     },
