@@ -1,0 +1,314 @@
+{
+  "fleetdata": [
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 1,
+      "carplate": "YE 648",
+      "fleetnum": "V6BL1",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 1,
+      "carplate": "YE 648",
+      "fleetnum": "7100",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 2,
+      "carplate": "YG 1524",
+      "fleetnum": "7102",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 3,
+      "carplate": "YG 1771",
+      "fleetnum": "7103",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 4,
+      "carplate": "YG 1149",
+      "fleetnum": "7104",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 5,
+      "carplate": "YG 1211",
+      "fleetnum": "7105",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 6,
+      "carplate": "YG 1657",
+      "fleetnum": "7106",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 7,
+      "carplate": "YG 1930",
+      "fleetnum": "7107",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 8,
+      "carplate": "YG 1825",
+      "fleetnum": "7108",
+      "depot": "G",
+      "leftad": "rbxassetid://6938517627",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://8360318323"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 9,
+      "carplate": "YG 1892",
+      "fleetnum": "7109",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 10,
+      "carplate": "YG 2005",
+      "fleetnum": "7110",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 11,
+      "carplate": "YG 2261",
+      "fleetnum": "7111",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 12,
+      "carplate": "YG 2199",
+      "fleetnum": "7112",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 13,
+      "carplate": "YG 2214",
+      "fleetnum": "7113",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 14,
+      "carplate": "YG 2422",
+      "fleetnum": "7114",
+      "depot": "G",
+      "leftad": "rbxassetid://,
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 15,
+      "carplate": "YG 2621",
+      "fleetnum": "7115",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 16,
+      "carplate": "YG 2525",
+      "fleetnum": "7116",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 17,
+      "carplate": "YG 2606",
+      "fleetnum": "7117",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 18,
+      "carplate": "YG 2678",
+      "fleetnum": "7118",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 19,
+      "carplate": "YG 2814",
+      "fleetnum": "7119",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 20,
+      "carplate": "YG 2848",
+      "fleetnum": "7120",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 21,
+      "carplate": "YG 2584",
+      "fleetnum": "7121",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 22,
+      "carplate": "YG 2711",
+      "fleetnum": "7122",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 23,
+      "carplate": "YG 2881",
+      "fleetnum": "7123",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 24,
+      "carplate": "YG 2872",
+      "fleetnum": "7124",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 25,
+      "carplate": "YG 2901",
+      "fleetnum": "7125",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 26,
+      "carplate": "YG 2916",
+      "fleetnum": "7126",
+      "depot": "A",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 27,
+      "carplate": "YG 2985",
+      "fleetnum": "7127",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 28,
+      "carplate": "YG 2952",
+      "fleetnum": "7128",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 29,
+      "carplate": "YG 2935",
+      "fleetnum": "7129",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    },
+    {
+      "busname": "RDB streetdeck (geo)",
+      "number": 30,
+      "carplate": "YG 2925",
+      "fleetnum": "7130",
+      "depot": "G",
+      "leftad": "rbxassetid://",
+      "rightad": "rbxassetid://11301793871",
+      "backad": "rbxassetid://"
+    }
+  ]
+  }
